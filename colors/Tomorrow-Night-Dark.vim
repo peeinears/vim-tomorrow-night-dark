@@ -21,10 +21,9 @@ let s:window = "4d5057"
 " Console 256 Colours
 if !has("gui_running")
 	let s:background = "202020"
-	let s:window = "5e5e5e"
-	let s:line = "3a3a3a"
-	let s:selection = "585858"
-  let s:alt = "393939"
+  let s:window = "393939"
+	let s:line = "393939"
+	let s:selection = "393939"
 end
 
 set background=dark
